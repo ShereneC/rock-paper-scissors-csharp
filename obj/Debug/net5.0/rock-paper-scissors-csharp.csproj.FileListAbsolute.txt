@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.exe
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.deps.json
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.runtimeconfig.json
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.runtimeconfig.dev.json
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.dll
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\ref\rock-paper-scissors-csharp.dll
+C:\source\codeworks\week10\rock-paper-scissors-csharp\bin\Debug\net5.0\rock-paper-scissors-csharp.pdb
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.csproj.AssemblyReference.cache
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.AssemblyInfo.cs
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.dll
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\ref\rock-paper-scissors-csharp.dll
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.pdb
+C:\source\codeworks\week10\rock-paper-scissors-csharp\obj\Debug\net5.0\rock-paper-scissors-csharp.genruntimeconfig.cache
